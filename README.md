@@ -1,8 +1,11 @@
 TEACH2GIVE Technical Test
+
+
 Overview
 This repository contains solutions to the technical test provided by TEACH2GIVE. The test consists of six programming questions aimed at assessing various technical skills.
 
 Programming Language
+
 Python is used for implementing the solutions to the provided questions.
 
 Questions
